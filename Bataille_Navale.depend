@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1486602558 source:d:\documents\ludus\prog\c\bataille_navale\main.c
+	<stdio.h>
+	<stdlib.h>
+
